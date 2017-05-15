@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[i2RVLibRXKLkwrd7fjyT9g]]></key>
+    <method><![CDATA[author_show]]></method>
+  </Request>
+  <author>
+  <id>5217</id>
+  <name>George Bernard Shaw</name>
+  <link><![CDATA[https://www.goodreads.com/author/show/5217.George_Bernard_Shaw]]></link>
+  <fans_count type="integer">2229</fans_count>
+  <author_followers_count type="integer">2229</author_followers_count>
+  <large_image_url><![CDATA[https://images.gr-assets.com/authors/1271683549p7/5217.jpg]]></large_image_url>
+  <image_url><![CDATA[https://images.gr-assets.com/authors/1271683549p5/5217.jpg]]></image_url>
+  <small_image_url><![CDATA[https://images.gr-assets.com/authors/1271683549p2/5217.jpg]]></small_image_url>
+  <about><![CDATA[George Bernard Shaw was an Irish playwright, socialist, and a co-founder of the London School of Economics. Although his first profitable writing was music and literary criticism, in which capacity he wrote many highly articulate pieces of journalism, his main talent was for drama. Over the course of his life he wrote more than 60 plays. Nearly all his plays address prevailing social problems, but each also includes a vein of comedy that makes their stark themes more palatable. In these works Shaw examined education, marriage, religion, government, health care, and class privilege.<br /><br />An ardent socialist, Shaw was angered by what he perceived to be the exploitation of the working class. He wrote many brochures and speeches for the Fabian Society. He became an accomplished orator in the furtherance of its causes, which included gaining equal rights for men and women, alleviating abuses of the working class, rescinding private ownership of productive land, and promoting healthy lifestyles. For a short time he was active in local politics, serving on the London County Council.<br /><br />In 1898, Shaw married Charlotte Payne-Townshend, a fellow Fabian, whom he survived. They settled in Ayot St. Lawrence in a house now called Shaw's Corner. <br /><br />He is the only person to have been awarded both a Nobel Prize for Literature (1925) and an Oscar (1938). The former for his contributions to literature and the latter for his work on the film "Pygmalion" (adaptation of his play of the same name). Shaw wanted to refuse his Nobel Prize outright, as he had no desire for public honours, but he accepted it at his wife's behest. She considered it a tribute to Ireland. He did reject the monetary award, requesting it be used to finance translation of Swedish books to English.<br /><br />Shaw died at Shaw's Corner, aged 94, from chronic health problems exacerbated by injuries incurred by falling.]]></about>
+  <influences><![CDATA[<a href="https://www.goodreads.com/author/show/156323.Robert_Ingersoll" title="Robert Ingersoll" rel="nofollow">Robert Ingersoll</a>, <a href="https://www.goodreads.com/author/show/194905.Avro_Manhattan" title="Avro Manhattan" rel="nofollow">Avro Manhattan</a>, <a href="https://www.goodreads.com/author/show/211702.Annie_Besant" title="Annie Besant" rel="nofollow">Annie Besant</a>, <a href="https://www.goodreads.com/author/show/11682.Arthur_Schopenhauer" title="Arthur Schopenhauer" rel="nofollow">Arthur Schopenhauer</a>, <a href="https://www.goodreads.com/author/show/13890.Richard_Wagner" title="Richard Wagner" rel="nofollow">Richard Wagner</a>, <a href="https://www.goodreads.com/author/show/2730977.Henrik_Ibsen" title="Henrik Ibsen" rel="nofollow">Henrik Ibsen</a>, <a href="https://www.goodreads.com/author/show/1938.Friedrich_Nietzsche" title="Friedrich Nietzsche" rel="nofollow">Friedrich Nietzsche</a>, <a href="https://www.goodreads.com/author/show/162321.Henry_George" title="Henry George" rel="nofollow">Henry George</a>]]></influences>
+  <works_count>573</works_count>
+  <gender>male</gender>
+  <hometown>Dublin</hometown>
+  <born_at>1856/07/26</born_at>
+  <died_at>1950/11/02</died_at>
+  <goodreads_author></goodreads_author>
+
+    <books>
+      <book>
+  <id type="integer">7714</id>
+  <isbn>0486282228</isbn>
+  <isbn13>9780486282220</isbn13>
+  <text_reviews_count type="integer">1212</text_reviews_count>
+  <title>Pygmalion</title>
+  <title_without_series>Pygmalion</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1453757285m/7714.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1453757285s/7714.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7714.Pygmalion</link>
+  <num_pages>134</num_pages>
+  <format>Paperback</format>
+  <edition_information>Dover Thrift Edition</edition_information>
+  <publisher>Dover Publications</publisher>
+  <publication_day>20</publication_day>
+  <publication_year>1994</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.90</average_rating>
+  <ratings_count>74399</ratings_count>
+  <description>Shaw wrote the part of Eliza Doolittle - an east-end dona with an apron and three orange and red ostrich feathers - for Mrs Patrick Campbell, with whom he had a passionate but unconsummated affair. From the outset the play was a sensational success, although Shaw, irritated by its popularity at the expense of his artistic intentions, dismissed it as a potboiler. The Pygmalion of legend falls in love with his perfect female statue and persuades Venus to bring her to life so that he can marry her. But Shaw radically reworks Ovid's tale to give it a feminist slant: while Higgins teaches Eliza to speak and act like a duchess, she also asserts her independence, adamantly refusing to be his creation.</description>
+<authors>
+<author>
+<id>5217</id>
+<name>George Bernard Shaw</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1271683549p5/5217.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1271683549p2/5217.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5217.George_Bernard_Shaw]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>140433</ratings_count>
+<text_reviews_count>3709</text_reviews_count>
+</author>
+</authors>
+  <published>1994</published>
+</book>
+
+
+      <book>
+  <id type="integer">275245</id>
+  <isbn>1593080786</isbn>
+  <isbn13>9781593080785</isbn13>
+  <text_reviews_count type="integer">32</text_reviews_count>
+  <title>Pygmalion and Three Other Plays</title>
+  <title_without_series>Pygmalion and Three Other Plays</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/275245.Pygmalion_and_Three_Other_Plays</link>
+  <num_pages>704</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Barnes  Noble Classics</publisher>
+  <publication_day>11</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.01</average_rating>
+  <ratings_count>16342</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>5217</id>
+<name>George Bernard Shaw</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1271683549p5/5217.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1271683549p2/5217.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5217.George_Bernard_Shaw]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>140433</ratings_count>
+<text_reviews_count>3709</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+</book>
+
+
+      <book>
+  <id type="integer">7707</id>
+  <isbn>0451530098</isbn>
+  <isbn13>9780451530097</isbn13>
+  <text_reviews_count type="integer">48</text_reviews_count>
+  <title>Pygmalion &amp; My Fair Lady</title>
+  <title_without_series>Pygmalion &amp; My Fair Lady</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1327891970m/7707.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1327891970s/7707.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7707.Pygmalion_My_Fair_Lady</link>
+  <num_pages>240</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Signet</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.24</average_rating>
+  <ratings_count>13069</ratings_count>
+  <description>The ancient Greeks tell the legend of the sculptor Pygmalion, who created a statue of a woman of such surpassing beauty that he fell in love with his own creation. Then, Aphrodite, taking pity on this man whose love could not reach beyond the barrier of stone, brought the statue to life and gave her to Pygmalion as his bride. Centuries later, George Bernard Shaw captured the magic of this legend in his celebrated romantic play, &lt;b&gt;Pygmalion&lt;/b&gt;. Pygmalion became Henry Higgins, a professor of phonetics, his statue an untutored flower girl from the streets of London, and the barrier between them the difference in their stations in life.&lt;br /&gt;&lt;br /&gt;In &lt;b&gt;My Fair Lady&lt;/b&gt;, Alan Jay Lerner takes the legend one step further—the barrier is swept away and Higgins and Eliza are reunited as the curtain falls on one of the loveliest musical plays of our time—winning seven Tonys® for its original Broadway production, and seven Oscars® for its film adaptation.</description>
+<authors>
+<author>
+<id>5217</id>
+<name>George Bernard Shaw</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1271683549p5/5217.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1271683549p2/5217.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5217.George_Bernard_Shaw]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>140433</ratings_count>
+<text_reviews_count>3709</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+      <book>
+  <id type="integer">383018</id>
+  <isbn>1599869209</isbn>
+  <isbn13>9781599869209</isbn13>
+  <text_reviews_count type="integer">213</text_reviews_count>
+  <title>Arms and the Man</title>
+  <title_without_series>Arms and the Man</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/383018.Arms_and_the_Man</link>
+  <num_pages>115</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Fq Classics</publisher>
+  <publication_day>27</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.84</average_rating>
+  <ratings_count>6312</ratings_count>
+  <description>&lt;i&gt;Arms and the Man&lt;/i&gt; is a comedy written by George Bernard Shaw, and was first produced in 1894 and published in 1898, and has become one of the most popular plays of George Bernard Shaw. Like his other works, &lt;i&gt;Arms and the Man&lt;/i&gt; questions conventional values and uses war and love as his satirical targets.&lt;br /&gt;&lt;br /&gt;This edition of &lt;i&gt;Arms and the Man&lt;/i&gt; is in the form of a paperback book.</description>
+<authors>
+<author>
+<id>5217</id>
+<name>George Bernard Shaw</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1271683549p5/5217.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1271683549p2/5217.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5217.George_Bernard_Shaw]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>140433</ratings_count>
+<text_reviews_count>3709</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+</book>
+
+
+      <book>
+  <id type="integer">12274</id>
+  <isbn>0140437916</isbn>
+  <isbn13>9780140437911</isbn13>
+  <text_reviews_count type="integer">151</text_reviews_count>
+  <title>Saint Joan</title>
+  <title_without_series>Saint Joan</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1358725811m/12274.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1358725811s/12274.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12274.Saint_Joan</link>
+  <num_pages>160</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin Classics</publisher>
+  <publication_day>25</publication_day>
+  <publication_year>2001</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.78</average_rating>
+  <ratings_count>5511</ratings_count>
+  <description>One of Shaw's most unusual and enduringly popular plays. With SAINT JOAN (1923) Shaw reached the height of his fame and Joan is one of his finest creations; forceful, vital, and rebelling against the values that surround her. The play distils Shaw's views on the subjects of politics, religion and creative evolution.</description>
+<authors>
+<author>
+<id>5217</id>
+<name>George Bernard Shaw</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1271683549p5/5217.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1271683549p2/5217.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5217.George_Bernard_Shaw]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>140433</ratings_count>
+<text_reviews_count>3709</text_reviews_count>
+</author>
+</authors>
+  <published>2001</published>
+</book>
+
+
+      <book>
+  <id type="integer">367762</id>
+  <isbn>140695716X</isbn>
+  <isbn13>9781406957167</isbn13>
+  <text_reviews_count type="integer">101</text_reviews_count>
+  <title>Major Barbara</title>
+  <title_without_series>Major Barbara</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1331833177m/367762.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1331833177s/367762.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/367762.Major_Barbara</link>
+  <num_pages>98</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Hard Press</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.68</average_rating>
+  <ratings_count>4317</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>5217</id>
+<name>George Bernard Shaw</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1271683549p5/5217.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1271683549p2/5217.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5217.George_Bernard_Shaw]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>140433</ratings_count>
+<text_reviews_count>3709</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+      <book>
+  <id type="integer">795387</id>
+  <isbn>159605980X</isbn>
+  <isbn13>9781596059801</isbn13>
+  <text_reviews_count type="integer">132</text_reviews_count>
+  <title>Mrs. Warren's Profession</title>
+  <title_without_series>Mrs. Warren's Profession</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/795387.Mrs_Warren_s_Profession</link>
+  <num_pages>60</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Cosimo Classics</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.66</average_rating>
+  <ratings_count>3760</ratings_count>
+  <description>Middle-aged Mrs. Warren is a madam, proprietress of a string of successful brothels. Her daughter, Vivie, is a modern young woman, but not so modern that she's not shocked to discover the source of her mother's wealth. The clash of these two strong-willed, but culturally constrained Victorian women, is the spark that ignites the ironic wit of one of George Bernard Shaw's greatest plays, in a withering critique of male domination, sexual hypocrisy, and societal convention. Initially banned after its 1893 publication due to its startling frankness, &lt;i&gt;Mrs. Warren's Profession&lt;/i&gt; remains a powerful work of progressive theater.</description>
+<authors>
+<author>
+<id>5217</id>
+<name>George Bernard Shaw</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1271683549p5/5217.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1271683549p2/5217.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5217.George_Bernard_Shaw]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>140433</ratings_count>
+<text_reviews_count>3709</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+      <book>
+  <id type="integer">364284</id>
+  <isbn>0140437886</isbn>
+  <isbn13>9780140437881</isbn13>
+  <text_reviews_count type="integer">148</text_reviews_count>
+  <title>Man and Superman</title>
+  <title_without_series>Man and Superman</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1443768785m/364284.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1443768785s/364284.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/364284.Man_and_Superman</link>
+  <num_pages>288</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin Classics</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2000</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.87</average_rating>
+  <ratings_count>3208</ratings_count>
+  <description>Shaw began writing &lt;i&gt;Man and Superman&lt;/i&gt; in 1901 and determined to write a play that would encapsulate the new century's intellectual inheritance. Shaw drew not only on Byron's verse satire, but also on Shakespeare, the Victorian comedy fashionable in his early life, and from authors from Conan Doyle to Kipling. In this powerful drama of ideas, Shaw explores the role of the artist, the function of women in society, and his theory of Creative Evolution. As Stanley Weintraub says in his new introduction, this is "the first great twentieth-century English play" and remains a classic exposé of the eternal struggle between the sexes.</description>
+<authors>
+<author>
+<id>5217</id>
+<name>George Bernard Shaw</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1271683549p5/5217.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1271683549p2/5217.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5217.George_Bernard_Shaw]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>140433</ratings_count>
+<text_reviews_count>3709</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+</book>
+
+
+      <book>
+  <id type="integer">767495</id>
+  <isbn>0140437878</isbn>
+  <isbn13>9780140437874</isbn13>
+  <text_reviews_count type="integer">64</text_reviews_count>
+  <title>Heartbreak House</title>
+  <title_without_series>Heartbreak House</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/767495.Heartbreak_House</link>
+  <num_pages>160</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin Classics</publisher>
+  <publication_day>29</publication_day>
+  <publication_year>2000</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.74</average_rating>
+  <ratings_count>1679</ratings_count>
+  <description>Entertaining allegory examines apathy, confusion and lack of purpose as causes of major world problems.&lt;br /&gt;&lt;br /&gt;One of the distinguished comic dramatist's more somber plays, this entertaining allegory examines apathy, confusion and lack of purpose as causes of major world problems, with larger-than-life characters representing the evils of the modern world.&lt;br /&gt;&lt;br /&gt;The house could arguably be a metaphorical reference to a ship which must be guided capably, not only by its crew, but also its passengers. Each character in the house represents some facet of British society, Mangan being the nouveau riche capitalist, Hesione the flighty Bohemian, Ellie a struggling member of the lower class and so on.&lt;br /&gt;&lt;br /&gt;One of Shaw's most important and evident themes is reality versus appearances. By the end of the play, each character is revealed to be nothing like who they appeared to be in the beginning. Mangan, who was reported to be "a Napolean of industry" is revealed in the third act to be virtually penniless and incapable of running his own businesses. It is in fact Mazzini who runs Mangan's businesses although he at first appears mild and incompetent.</description>
+<authors>
+<author>
+<id>5217</id>
+<name>George Bernard Shaw</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1271683549p5/5217.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1271683549p2/5217.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5217.George_Bernard_Shaw]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>140433</ratings_count>
+<text_reviews_count>3709</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+</book>
+
+
+      <book>
+  <id type="integer">418373</id>
+  <isbn>0143039784</isbn>
+  <isbn13>9780143039785</isbn13>
+  <text_reviews_count type="integer">59</text_reviews_count>
+  <title>Candida</title>
+  <title_without_series>Candida</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/418373.Candida</link>
+  <num_pages>112</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin Classics</publisher>
+  <publication_day>27</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.62</average_rating>
+  <ratings_count>1534</ratings_count>
+  <description>Candida centers on a romantic triangle and parodies courtly love and the domestic drama of Ibsen. It abounds with classical allusions, the fervor of a religious revival, and poetic inspiration and aspirations.</description>
+<authors>
+<author>
+<id>5217</id>
+<name>George Bernard Shaw</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1271683549p5/5217.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1271683549p2/5217.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5217.George_Bernard_Shaw]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>140433</ratings_count>
+<text_reviews_count>3709</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    </books>
+</author>
+
+</GoodreadsResponse>
